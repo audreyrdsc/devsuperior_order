@@ -1,8 +1,5 @@
 package com.devsuperior.order.entities;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class Order {
     private Integer code;
     private Double basic;
